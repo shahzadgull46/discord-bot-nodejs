@@ -7,6 +7,19 @@ A Node.js Discord bot built with **Discord.js** to learn and demonstrate Discord
 This project is part of my **Node.js learning journey**. It demonstrates how to create a Discord bot, connect it to a Discord server, handle incoming messages, and implement slash commands using Discord.js.
 
 The project also follows basic production practices by keeping sensitive configuration in environment variables and separating development and production start commands.
+## 🚀 Live Demo
+
+The Discord bot is deployed and running as a background Node.js service.
+
+**[Join the Discord Server →](https://discord.gg/87BNgmCJA)**
+
+Once you join the server, you can test the deployed bot using:
+
+* `/ping` → Returns `Pong!`
+* `/create` → Accepts a URL and returns the provided URL
+
+> **Note:** This is a Discord bot, so the live demo is available directly through Discord rather than through a web page.
+
 
 ## ✨ Features
 
